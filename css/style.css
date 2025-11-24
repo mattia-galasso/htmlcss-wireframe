@@ -16,3 +16,12 @@ h1 {
     padding: 5px 15px;
     border-bottom: 2px black solid;
 }
+
+/* Main Content */
+
+.text-card {
+    margin: 15px 20px;
+    padding: 15px;
+    border: 2px black solid;
+    min-height: 160px;
+}
