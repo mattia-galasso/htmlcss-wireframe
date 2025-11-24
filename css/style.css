@@ -1,5 +1,18 @@
+/* CSS Reset */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+
+/* General Rules */
+body {
+    width: 512px;
+    /* border: 2px black solid; */
+}
+
+/* Header */
+h1 {
+    padding: 5px 15px;
+    border-bottom: 2px black solid;
 }
