@@ -12,7 +12,7 @@ body {
 }
 
 /* Header */
-h1 {
+.title-header {
     padding: 5px 15px;
     border-bottom: 2px black solid;
 }
@@ -24,4 +24,11 @@ h1 {
     padding: 15px;
     border: 2px black solid;
     min-height: 160px;
+}
+
+/* Footer */
+
+.sign-footer {
+    padding: 5px 15px;
+    border-top: 2px black solid;
 }
