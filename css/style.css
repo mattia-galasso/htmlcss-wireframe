@@ -8,7 +8,7 @@
 /* General Rules */
 body {
     width: 512px;
-    /* border: 2px black solid; */
+    border: 2px black dashed;
 }
 
 /* Header */
@@ -18,9 +18,12 @@ body {
 }
 
 /* Main Content */
+.content-cards {
+    padding: 0 20px;
+}
 
 .text-card {
-    margin: 15px 20px;
+    margin: 15px 0;
     padding: 15px;
     border: 2px black solid;
     min-height: 160px;
